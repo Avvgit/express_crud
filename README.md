@@ -2,7 +2,7 @@
 
 Proyecto de prueba para comenzar a utlizar express + postgresSQL + sequelize
 
-##Desafio:
+## Desafio:
 1) Leer y aprender a usar el codigo;
 2) Crear base de datos que tenga dos tablas;
 3) Utilizar los CRUD para POST, GET, PUT y DELETE;
